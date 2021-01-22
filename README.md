@@ -1,2 +1,2 @@
 # lab2
-practicas computación en nube
+Laboratorio 2 de HPC-Bio
